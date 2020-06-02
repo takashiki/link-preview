@@ -34,7 +34,7 @@
                 "Dusterio\\LinkPreview\\Integrations\\LaravelServiceProvider"
             ],
             "aliases": {
-                "Preview": "Dusterio\\LinkPreview\\Integrations\\LaravelFacade",
+                "Preview": "Dusterio\\LinkPreview\\Integrations\\LaravelFacade"
             }
         }
     }
