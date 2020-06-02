@@ -1,5 +1,5 @@
 {
-    "name": "dusterio/link-preview",
+    "name": "takashiki/link-preview",
     "type": "library",
     "description": "Link preview generation for PHP with Laravel support",
     "keywords": ["php","url","scraping","laravel","preview"],
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "illuminate/support": "5.*|6.*",
+        "illuminate/support": "5.*|6.*|7.*",
         "guzzlehttp/guzzle": "^6.1",
         "symfony/dom-crawler": "^3.0",
         "symfony/css-selector": "^3.0"
