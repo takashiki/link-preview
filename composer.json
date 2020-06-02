@@ -32,7 +32,10 @@
         "laravel": {
             "providers": [
                 "Dusterio\\LinkPreview\\Integrations\\LaravelServiceProvider"
-            ]
+            ],
+            "aliases": {
+                "Preview": "Dusterio\\LinkPreview\\Integrations\\LaravelFacade",
+            }
         }
     }
 }
